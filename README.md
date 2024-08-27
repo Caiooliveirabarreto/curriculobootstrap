@@ -1,2 +1,2 @@
 # curriculobootstrap
-** https://caiooliveirabarreto.github.io/curriculobootstrap
+## https://caiooliveirabarreto.github.io/curriculobootstrap
