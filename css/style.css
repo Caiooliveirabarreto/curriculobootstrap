@@ -75,3 +75,12 @@ body{margin-top:20px;}
     border-radius: 6.25rem;
     opacity: .5
 }
+.barranavcentro{
+    text-align: center;
+}
+.imgsite{
+    width: 30%;
+}
+.texto{
+    padding: 1%;
+}
