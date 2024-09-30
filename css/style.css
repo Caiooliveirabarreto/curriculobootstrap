@@ -84,3 +84,16 @@ body{margin-top:20px;}
 .texto{
     padding: 1%;
 }
+.foto-menu{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 45%;
+    right: 45%;
+    font-size: 2vw;
+}
