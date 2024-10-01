@@ -85,15 +85,32 @@ body{margin-top:20px;}
     padding: 1%;
 }
 .foto-menu{
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 35%;
+    opacity: 0.8;
 }
 .center{
-    position: absolute;
-    top: 50%;
-    bottom: 50%;
-    left: 45%;
-    right: 45%;
-    font-size: 2vw;
+    padding-top: 20%;
+}
+.contato{
+    background-color: #3b82f6;
+    padding: 1%;
+}
+.sobre{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.personagem{
+    padding-top: 10%;
+    text-align: center;
+}
+.personagem-foto{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.texto-personagem{
+    text-align: center;
+    line-height: 0.7;
+    padding-top: 2%;
 }
